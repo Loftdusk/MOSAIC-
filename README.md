@@ -10,6 +10,7 @@
 [[Website]](https://baai-humanoid.github.io/MOSAIC/)
 [[Arxiv]](https://arxiv.org/pdf/2602.08594)
 [[Dataset]](https://huggingface.co/datasets/BAAI-Humanoid/MOSAIC_Dataset)
+[[Model]](https://huggingface.co/BAAI-Humanoid/MOSAIC_Model)
 
 ## Overview
 
